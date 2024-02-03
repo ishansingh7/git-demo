@@ -1,2 +1,5 @@
 # git-demo
-practice for semester exam
+practice for semester exam[ishan].
+coder: Ishan singh.
+
+
